@@ -1,1 +1,1 @@
-# vityarthi_project
+# vityarthi-project
